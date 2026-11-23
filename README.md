@@ -11,6 +11,9 @@
 <a href="https://eduardovazquez.online" target="_blank">
   <img src="https://img.shields.io/badge/Portafolio-eduardovazquez.online-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
 </a>
+<a href="https://github.com/EduardoVazquez1881/EduardoVazquez1881/raw/main/CV_Eduardo_Vazquez.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Descargar_CV-PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" />
+</a>
 <a href="mailto:eduardovz1881@gmail.com">
   <img src="https://img.shields.io/badge/Email-eduardovz1881%40gmail.com-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
