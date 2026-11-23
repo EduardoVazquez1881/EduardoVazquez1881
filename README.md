@@ -1,6 +1,6 @@
 <div align="center">
 
-# Eduardo Vázquez
+# Eduardo Vazquez
 
 ### Desarrollador de Software | Backend, Full Stack & IA Aplicada
 
