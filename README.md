@@ -54,15 +54,6 @@ Ingeniero en Sistemas Computacionales con especialidad en **Desarrollo de Softwa
 
 ---
 
-## Estadísticas y Actividad
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardoVazquez1881&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub de Eduardo Vázquez" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoVazquez1881&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados por Eduardo Vázquez" />
-</div>
-
-<br />
-
 <div align="center">
     <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
